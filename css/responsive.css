@@ -1,13 +1,13 @@
 @media only screen and (max-width: 767px) {
   body {
-    font-size: 13px;
+    font-size: 16px;
   }
   p {
-    font-size: 13px;
+    font-size: 18px;
   }
   .default-btn {
     padding: 15px 30px;
-    font-size: 13px;
+    font-size: 16px;
   }
   .ptb-100 {
     padding-top: 60px;
@@ -34,7 +34,7 @@
     margin-top: 10px;
   }
   .form-control {
-    font-size: 13px;
+    font-size: 16px;
     padding: 10px;
   }
   .top-header {
@@ -46,7 +46,7 @@
     margin-top: 0;
   }
   .top-header .header-contact-info li {
-    font-size: 13px;
+    font-size: 16px;
     margin-top: 10px;
     margin-left: 5px;
     margin-right: 5px;
@@ -67,7 +67,7 @@
     overflow-y: scroll;
   }
   .navbar-light .navbar-nav .nav-item .nav-link {
-    font-size: 13px;
+    font-size: 16px;
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 3px;
@@ -100,7 +100,7 @@
   }
   .slider-text p {
     margin-bottom: 20px;
-    font-size: 13px;
+    font-size: 16px;
   }
   .banner-section {
     height: 100%;
@@ -118,7 +118,7 @@
   }
   .banner-text p {
     margin-bottom: 20px;
-    font-size: 13px;
+    font-size: 16px;
   }
   .shape-1, .shape-2, .shape-3 {
     display: none;
@@ -299,7 +299,7 @@
   }
   .single-counter p {
     margin-top: 5px;
-    font-size: 13px;
+    font-size: 16px;
   }
   .testimonials-section {
     padding-bottom: 30px;
@@ -390,7 +390,7 @@
     padding: 20px;
   }
   .form-wrapper label {
-    font-size: 13px;
+    font-size: 16px;
   }
   .form-wrapper .form-control {
     height: 45px !important;
@@ -495,7 +495,7 @@
   }
   .blog-details .article-content .share-post ul li a {
     width: 35px;
-    font-size: 13px;
+    font-size: 16px;
     height: 35px;
     line-height: 35px;
   }
@@ -526,7 +526,7 @@
     font-size: 15px;
   }
   .post-comments .single-comment .comment-content span {
-    font-size: 13px;
+    font-size: 16px;
   }
   .leave-a-reply {
     padding: 20px;
@@ -545,10 +545,10 @@
     margin-bottom: 0;
   }
   .sidebar-area .widget_post_categories ul li a {
-    font-size: 13px;
+    font-size: 16px;
   }
   .sidebar-area .widget_recent_posts ul li .recent-post-content h3 {
-    font-size: 13px;
+    font-size: 16px;
   }
   .sidebar-area .widget_tag_cloud .tagcloud a {
     font-size: 12px !important;
@@ -589,7 +589,7 @@
     font-size: 17px;
   }
   .error-section .error-text p {
-    font-size: 13px;
+    font-size: 16px;
   }
   .footer-section {
     -webkit-clip-path: unset;
@@ -613,14 +613,14 @@
     margin-top: 20px;
   }
   .single-footer-widget .social-links li {
-    font-size: 13px;
+    font-size: 16px;
   }
   .single-footer-widget .footer-nav-list li {
-    font-size: 13px;
+    font-size: 16px;
   }
   .single-footer-widget .working-hours li {
     margin-bottom: 10px;
-    font-size: 13px;
+    font-size: 16px;
   }
   .copyright-area {
     margin-top: 30px;
@@ -660,11 +660,11 @@
     font-size: 30px;
   }
   .top-header .social-links li a {
-    font-size: 13px;
+    font-size: 16px;
   }
   .top-header .header-contact-info li {
     margin-right: 15px;
-    font-size: 13px;
+    font-size: 16px;
   }
   .top-header .header-contact-info li i {
     font-size: 14px;

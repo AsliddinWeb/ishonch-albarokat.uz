@@ -46,12 +46,12 @@ body {
   padding: 0;
   margin: 0;
   font-family: "Rubik", sans-serif;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 a {
   display: block;
-  color: #313232;
+  color: #1b1b1b;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   text-decoration: none;
@@ -63,9 +63,9 @@ a:hover {
 }
 
 p {
-  color: #899198;
+  color: #272728;
   margin-bottom: 15px;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.8;
 }
 
@@ -462,11 +462,11 @@ Banner Area CSS
 }
 
 .hero-slider .slider-item-bg-3 {
-  background-image: url("../images/new/matras.jpg");
+  background-image: url("../images/new/matras2.jpg");
 }
 
 .hero-slider .slider-item-bg-4 {
-  background-image: url("../images/new/yopinchiq.png");
+  background-image: url("../images/new/yopinchiq2.jpg");
 }
 
 .hero-slider .slider-item-bg-5 {
@@ -474,7 +474,7 @@ Banner Area CSS
 }
 
 .hero-slider .slider-item-bg-6 {
-  background-image: url("../images/new/korpa.webp");
+  background-image: url("../images/new/korpa2.jpg");
 }
 
 .hero-slider .slider-item-bg-7 {
@@ -482,7 +482,7 @@ Banner Area CSS
 }
 
 .hero-slider .slider-item-bg-8 {
-  background-image: url("../images/new/basseyn.jpg");
+  background-image: url("../images/new/basseyn2.jpg");
 }
 
 .hero-slider .slider-item-bg-9 {
@@ -511,7 +511,7 @@ Banner Area CSS
   margin-bottom: 30px;
   max-width: 545px;
   opacity: .95;
-  font-size: 16px;
+  font-size: 18px;
   font-family: "Muli", sans-serif;
 }
 
@@ -622,7 +622,7 @@ Banner Area CSS
 .banner-text p {
   margin-bottom: 30px;
   max-width: 545px;
-  font-size: 16px;
+  font-size: 18px;
   font-family: "Muli", sans-serif;
 }
 
@@ -740,17 +740,6 @@ About Area CSS
   border-radius: 4px;
 }
 
-.about-img::before {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 90%;
-  height: 90%;
-  background-color: #247ffb;
-  border-radius: 4px;
-  z-index: -1;
-}
 
 .about-text {
   padding-left: 30px;
@@ -786,7 +775,7 @@ About Area CSS
 }
 
 .about-text ul li {
-  color: #899198;
+  color: #272728;
   position: relative;
   -webkit-box-flex: 0;
   -ms-flex: 0 0 50%;
@@ -1263,7 +1252,7 @@ Counter Area CSS
   color: #ffffff;
   margin-top: 5px;
   line-height: initial;
-  font-size: 16px;
+  font-size: 18px;
   font-family: "Muli", sans-serif;
 }
 
@@ -1416,12 +1405,12 @@ Blog Area CSS
 .single-blog-post .post-content ul li {
   display: inline-block;
   margin-right: 15px;
-  color: #899198;
+  color: #272728;
 }
 
 .single-blog-post .post-content ul li a {
   display: inline-block;
-  color: #899198;
+  color: #272728;
 }
 
 .single-blog-post .post-content ul li a:hover {
@@ -1521,7 +1510,7 @@ Pricing Area CSS
 }
 
 .pricing-content span sup {
-  font-size: 24px;
+  font-size: 28px;
 }
 
 .pricing-content span sub {
@@ -1925,7 +1914,7 @@ Error Area CSS
 }
 
 .error-section .error-text p {
-  font-size: 16px;
+  font-size: 18px;
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
@@ -1980,7 +1969,7 @@ Blog Details Area CSS
 
 .blog-details .article-content .blockquote p {
   margin-bottom: 0;
-  font-size: 18px;
+  font-size: 22px;
   font-style: italic;
 }
 
@@ -2085,7 +2074,7 @@ Blog Details Area CSS
 }
 
 .post-comments .single-comment .comment-content span {
-  color: #899198;
+  color: #272728;
   font-size: 14px;
 }
 
@@ -2094,7 +2083,7 @@ Blog Details Area CSS
   right: 0;
   bottom: -5px;
   text-transform: uppercase;
-  color: #899198;
+  color: #272728;
   border: 1px solid #eeeeee;
   display: inline-block;
   border-radius: 30px;
@@ -2251,7 +2240,7 @@ Sidebar Area CSS
   display: block;
   margin-top: 3px;
   font-size: 13px;
-  color: #899198;
+  color: #272728;
 }
 
 .sidebar-area .widget_recent_posts ul:last-child {
@@ -2264,7 +2253,7 @@ Sidebar Area CSS
 
 .sidebar-area .widget_tag_cloud .tagcloud a {
   background: transparent;
-  color: #899198;
+  color: #272728;
   border: 1px solid #eeeeee;
   padding: 8px 15px;
   border-radius: 4px;
@@ -2677,7 +2666,7 @@ Footer Area CSS
 }
 
 .copyright-area p {
-  font-size: 16px;
+  font-size: 18px;
   color: #ffffff;
 }
 
